@@ -1,0 +1,7 @@
+﻿  源.cpp
+d:\文件\编程语言\c++\挑战杯项目\挑战杯项目\源.cpp(26): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\文件\编程语言\c++\挑战杯项目\挑战杯项目\源.cpp(28): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\文件\编程语言\c++\挑战杯项目\挑战杯项目\源.cpp(111): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\文件\编程语言\c++\挑战杯项目\挑战杯项目\源.cpp(116): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\文件\编程语言\c++\挑战杯项目\挑战杯项目\源.cpp(124): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  挑战杯项目.vcxproj -> D:\文件\编程语言\C++\挑战杯项目\Debug\挑战杯项目.exe

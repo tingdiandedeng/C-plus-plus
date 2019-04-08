@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\文件\编程语言\c++\assignment1.2\assignment1.2\源.cpp(23): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  Assignment1.2.vcxproj -> D:\文件\编程语言\C++\Assignment1.2\Debug\Assignment1.2.exe
+  Assignment1.2.vcxproj -> D:\文件\编程语言\C++\Assignment1.2\Debug\Assignment1.2.pdb (Partial PDB)

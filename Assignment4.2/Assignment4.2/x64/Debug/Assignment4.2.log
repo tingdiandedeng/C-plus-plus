@@ -1,0 +1,6 @@
+﻿  源.cpp
+d:\文件\编程语言\c++\assignment4.2\assignment4.2\源.cpp(10): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\文件\编程语言\c++\assignment4.2\assignment4.2\源.cpp(11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  源1.cpp
+  正在生成代码...
+  Assignment4.2.vcxproj -> D:\文件\编程语言\C++\Assignment4.2\x64\Debug\Assignment4.2.exe
